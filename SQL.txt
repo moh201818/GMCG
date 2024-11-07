@@ -1,0 +1,1 @@
+The return value depends on the language environment set by using SET LANGUAGE, and by the Configure the default language Server Configuration Option of the login. The return value depends on SET DATEFORMAT if date is a string literal of some formats. SET DATEFORMAT does not change the return value when the date is a column expression of a date or time data type.
